@@ -1,5 +1,6 @@
 * {
   font-family: sans-serif;
+  padding: 0;
 }
 
 body {
@@ -18,7 +19,7 @@ body {
   justify-content: center;
   align-items: center;
   background-color: white;
-  padding: 16px 16px 40px;
+  padding: 5px 5px;
   border-radius: 20px;
 
   .codeHolder {
@@ -41,6 +42,7 @@ body {
 
     h2 {
       font-size: 20px;
+      color: #1f314f;
     }
     p {
       font-size: 15px;
