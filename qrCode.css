@@ -3,7 +3,11 @@
 }
 
 body {
+  height: 100vh;
   background-color: #d5e1ef;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .card {
@@ -13,7 +17,6 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin: 40px auto;
   background-color: white;
   padding: 16px 16px 40px;
   border-radius: 20px;
